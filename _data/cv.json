@@ -1,152 +1,185 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Wanqing (Psyche) He",
+    "email": "wh385@cornell.edu",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://psychehe.github.io",
+    "summary": "PhD candidate in Information Science (HCI) at Cornell University. Researching AI-Mediated Communication, cognitive scaffolding, and psycholinguistic metrics for evaluating AI-integrated spoken communication.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Ithaca",
       "countryCode": "US",
-      "region": ""
+      "region": "NY"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "psychehe",
+        "url": "https://github.com/psychehe"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "XPLAIN (Proactive Meeting AI)",
+      "position": "Founder & Product Lead",
+      "startDate": "2024-08-01",
+      "endDate": "",
+      "summary": "Architected a real-time AI-MC system utilizing LLM-based cognitive scaffolding; recruited & directed a 19-person cross-functional team."
+    },
+    {
+      "company": "ByteDance Inc.",
+      "position": "Content Strategist (Trust and Safety)",
+      "startDate": "2020-12-01",
+      "endDate": "2021-06-01",
+      "summary": "Architected content moderation framework for AI models across TikTok, Helo, Fictum (>500M users)."
+    },
+    {
+      "company": "Facebook",
+      "position": "Linguist Intern - Ontology in NLU",
+      "startDate": "2019-07-01",
+      "endDate": "2019-08-31",
+      "summary": "Built the first Mandarin NLU model for Facebook AI Assistant chatbot."
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Cornell University",
+      "area": "Ph.D. in Information Science (Human-Computer Interaction)",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2021-08-01",
+      "endDate": "2026-12-01",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "University of California, Berkeley",
+      "area": "B.A. in Linguistics (Dean's List)",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2016-08-01",
+      "endDate": "2019-12-01",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Research Methods",
+      "keywords": ["Experimental Design", "Wizard-of-Oz", "Multimodal Coding", "Surveys", "Interviews", "User Studies", "Focus Groups", "Prototyping", "Usability Testing"]
+    },
+    {
+      "name": "Quant & Modeling",
+      "keywords": ["Regression", "Causal Inference", "GLMM", "Multilevel Model", "Latent Analysis", "Time Series Prediction"]
+    },
+    {
+      "name": "AI/LLM Ops",
+      "keywords": ["Prompt/Context Engineering", "Human-in-the-loop Evaluation", "LLM-based Behavioral Simulation"]
+    },
+    {
+      "name": "Tools",
+      "keywords": ["R", "Python", "JsPsych", "PsychoPy", "Praat", "ELAN", "Figma", "Miro", "Qualtrics", "Atlas.ti", "LaTeX", "JupyterLab"]
+    }
+  ],
   "languages": [],
   "interests": [],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "XPLAIN: A Proactive Scaffold Across Speech Processing Stages",
+      "publisher": "ACM Conference on Conversational User Interfaces (CUI)",
+      "releaseDate": "2026-07-21",
+      "website": "",
+      "summary": "Supporting Non-Native Speakers in Real-Time AI-Mediated Turn-Taking. (Under review)"
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "User Heterogeneity in AI-Mediated Communication: Extending Cognitive Theories via Latent Class Analysis",
+      "publisher": "Annual Meeting of the Cognitive Science Society (CogSci)",
+      "releaseDate": "2026-07-22",
+      "website": "",
+      "summary": "Extending cognitive theories via latent class analysis. (Accepted)"
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Disfluency as a Window into Cognitive Mediation",
+      "publisher": "CHI Extended Abstracts 2026",
+      "releaseDate": "2026-04-13",
+      "website": "https://drive.google.com/file/d/1YB9yG12XW01DvO6hbD5Tau3iy6sPmG40/view",
+      "summary": "Psycholinguistic Metrics for Evaluating AI-Integrated Spoken Communication. Published."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Proactivity in Scaffolding Comprehension and Production in Real-Time Turn-Taking",
+      "publisher": "CSCW Companion '25",
+      "releaseDate": "2025-10-18",
+      "website": "https://doi.org/10.1145/3715070.3749273",
+      "summary": "A Case Study of Bridging Communication Gaps for Non-Native Speakers."
+    },
+    {
+      "name": "Difference in the Cognitive Mechanism of Predictive Processing in CMC",
+      "publisher": "Annual Meeting of the Cognitive Science Society (CogSci)",
+      "releaseDate": "2025-07-30",
+      "website": "https://escholarship.org/content/qt7zd2v9dv/qt7zd2v9dv.pdf",
+      "summary": "A Comparison Study of L2 Speakers."
+    },
+    {
+      "name": "Exploring Content Predictability in Turn-taking Through Different Computer-Mediated Communications",
+      "publisher": "31st International Conference on Computational Linguistics (COLING)",
+      "releaseDate": "2025-01-19",
+      "website": "https://aclanthology.org/2025.coling-main.532/",
+      "summary": "Pages 7949–7962. Abu Dhabi, UAE."
+    },
+    {
+      "name": "How Thanking Peers Sustains Volunteer Participation in Public Goods",
+      "publisher": "Proc Natl Acad Sci USA (PNAS)",
+      "releaseDate": "2025-01-01",
+      "website": "",
+      "summary": "Parallel Field Experiments in Four Wikipedia Language Communities. (Under review)"
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
+      "name": "Statistical Chunking in Reading: The Modulating Effect of High-Frequency Multi-Word Chunks on Reading Performance",
+      "event": "International Conference on Interdisciplinary Advances in Statistical Learning",
+      "date": "2024-01-01",
+      "location": "San Sebastian, Spain",
       "description": ""
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
+      "name": "To Chunk or Not to Chunk: Statistical Learning of High-Frequency Word-Marker Pairs",
+      "event": "International Conference on Interdisciplinary Advances in Statistical Learning",
+      "date": "2022-01-01",
+      "location": "San Sebastian, Spain",
       "description": ""
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
+      "name": "Verbal Tone Interactions in Iquito: An Optimality-Theoretic Analysis",
+      "event": "The 28th Manchester Phonology Meeting",
+      "date": "2021-01-01",
+      "location": "Online",
       "description": ""
     },
     {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
+      "name": "Modeling Tone System: The Role of Dispersion Theory in Optimization",
+      "event": "The 56th Linguistics Colloquium",
+      "date": "2020-01-02",
+      "location": "Online",
+      "description": ""
+    },
+    {
+      "name": "Infant Walking, Social Communicative Abilities, and Vocabulary Increases",
+      "event": "22nd Biennial International Conference of Infant Studies",
+      "date": "2020-01-01",
+      "location": "Online",
       "description": ""
     }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "Teaching Assistant & Guest Lecturer",
+      "institution": "Cornell University, Information Science & Psychology",
+      "date": "2022-01-01",
+      "role": "Graduate Teaching",
+      "description": "TA for 7 courses: INFO 2951 Introduction to Data Science (Spr 2025), INFO 6310 Behavior and Information Technology (Fall 2024), INFO 4450 Computer-Mediated Communication (Spr 2024), INFO 4430 Teams and Technology (Fall 2023), PSYCH 2250 Psychology of Language (Spr 2023), PSYCH 1101 Introduction to Psychology (Fall 2022), HD 4380 Language and Thought (Spr & Fall 2022). Guest lectures on content prediction and CMC fluency."
     }
   ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "portfolio": []
 }
